@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: SamarV-121
+name: Realme Diary
 
 # Short bio or description (displayed in the header)
-description: My works for Android
+description: build for Realme 3 Pro by Realme Diary
 
 
 #
@@ -16,19 +16,19 @@ description: My works for Android
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: samarvispute121@gmail.com
-  facebook: SamarV121
-  reddit:
-  flickr:
-  github: SamarV-121
-  instagram: samar_vispute
-  linkedin:
-  pinterest:
+  email: er.nikhimeena@gmail.com
+ # facebook: SamarV121
+ # reddit:
+ # flickr:
+  github: nikhil7001
+  instagram: nikhil_singh7011
+ #  linkedin:
+  #pinterest:
   rss: true # just type anything here for a working RSS icon
-  twitter: samarvispute
+  #twitter: samarvispute
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: www.youtube.com/realmediary
+#  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://samarv-121.github.io
+url: https://nikhil7001.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
